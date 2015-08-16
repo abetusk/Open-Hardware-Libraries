@@ -1,0 +1,33 @@
+###############################################################################
+#Session: 2015-01-11 22:57:57
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/microbuilder.lbr
+Module Output: KiCAD/microbuilder.mod
+Symbol Output: KiCAD/microbuilder.lib
+Lib Name: microbuilder
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 70, in convertLib
+    open(modFileName, 'w').close()
+FileNotFoundError: [Errno 2] No such file or directory: 'KiCAD/microbuilder.mod'
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:58:20
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/microbuilder.lbr
+Module Output: KiCAD/microbuilder.mod
+Symbol Output: KiCAD/microbuilder.lib
+Lib Name: microbuilder
+Conversion Successfull
+*******************************************
+
+

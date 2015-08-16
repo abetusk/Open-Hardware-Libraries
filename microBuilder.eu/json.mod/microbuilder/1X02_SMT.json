@@ -1,0 +1,103 @@
+{
+  "library_name": "1X02_SMT", 
+  "layer": "15", 
+  "attribute1": "00000000", 
+  "art": [
+    {
+      "line_width": 80.0, 
+      "startx": -1000.0, 
+      "starty": -250.0, 
+      "endy": 250.0, 
+      "endx": -1000.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }
+  ], 
+  "name": "1X02_SMT", 
+  "keyword": [
+    " <p><b>Pin Headers</b><br/>"
+  ], 
+  "text": [
+    {
+      "layer": "26", 
+      "angle": 0.0, 
+      "misc": " \">NAME\"", 
+      "sizex": 320.0, 
+      "number": "0", 
+      "sizey": 320.0, 
+      "visible": true, 
+      "flag": "N", 
+      "text": ">NAME", 
+      "y": -1119.0, 
+      "x": -390.0, 
+      "rotation": "0", 
+      "penwidth": 57.0
+    }, 
+    {
+      "layer": "26", 
+      "angle": 0.0, 
+      "misc": " \">VALUE\"", 
+      "sizex": 160.0, 
+      "number": "1", 
+      "sizey": 160.0, 
+      "visible": true, 
+      "flag": "N", 
+      "text": ">VALUE", 
+      "y": 1851.0, 
+      "x": -520.0, 
+      "rotation": "0", 
+      "penwidth": 16.0
+    }
+  ], 
+  "timestamp_op": "00000000", 
+  "rotation_cost_180": "0", 
+  "attribute2": "~~", 
+  "y": 0.0, 
+  "rotation_cost_misc": "0", 
+  "pad": [
+    {
+      "angle": 0.0, 
+      "name": "1", 
+      "drill_diam": 0.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 393.0, 
+      "sizey": 1377.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00888000", 
+      "shape": "rectangle", 
+      "drill_y": 0.0, 
+      "posy": -500.0, 
+      "posx": -500.0, 
+      "shape_code": "R", 
+      "type": "SMD", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }, 
+    {
+      "angle": 0.0, 
+      "name": "2", 
+      "drill_diam": 0.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 393.0, 
+      "sizey": 1377.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00888000", 
+      "shape": "rectangle", 
+      "drill_y": 0.0, 
+      "posy": 500.0, 
+      "posx": 500.0, 
+      "shape_code": "R", 
+      "type": "SMD", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }
+  ], 
+  "timestamp": "00000000", 
+  "units": "deci-mils", 
+  "x": 0.0, 
+  "rotation_cost_90": "0", 
+  "angle": 0.0, 
+  "orientation": "0"
+}

@@ -1,0 +1,91 @@
+{
+  "art": [
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": ">NAME", 
+      "y": 300.0, 
+      "x": -100.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "50"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": ">VALUE", 
+      "y": 225.0, 
+      "x": -100.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "50"
+    }, 
+    {
+      "line_width": "10", 
+      "shape": "circle", 
+      "r": 50.0, 
+      "y": 150.0, 
+      "x": 0.0, 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }
+  ], 
+  "name": "TESTPOINT0.1\"_1X01_ROUND", 
+  "reference": "U", 
+  "text": [
+    {
+      "orientation": "H", 
+      "reference": "U", 
+      "hjustify": "C", 
+      "number": 0, 
+      "vjustify": "C", 
+      "visible": false, 
+      "bold": false, 
+      "italic": false, 
+      "y": "0", 
+      "x": "0", 
+      "size": "0"
+    }, 
+    {
+      "orientation": "H", 
+      "reference": "TESTPOINT0.1\"_1X01_ROUND", 
+      "hjustify": "C", 
+      "number": 1, 
+      "vjustify": "C", 
+      "visible": false, 
+      "bold": false, 
+      "italic": false, 
+      "y": "0", 
+      "x": "0", 
+      "size": "0"
+    }
+  ], 
+  "power_flag": "N", 
+  "units_locked": "0", 
+  "text_offset": "100", 
+  "draw_pin_name": true, 
+  "pin": [
+    {
+      "direction": "U", 
+      "name": "P$1", 
+      "number": "1", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "0", 
+      "x": "0", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "0", 
+      "unit": "0"
+    }
+  ], 
+  "draw_pin_number": true, 
+  "unit_count": 2
+}

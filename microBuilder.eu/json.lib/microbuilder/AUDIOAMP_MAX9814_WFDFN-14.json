@@ -1,0 +1,553 @@
+{
+  "art": [
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          -700.0, 
+          800.0
+        ], 
+        [
+          700.0, 
+          800.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          700.0, 
+          800.0
+        ], 
+        [
+          700.0, 
+          -900.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          700.0, 
+          -900.0
+        ], 
+        [
+          -700.0, 
+          -900.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          -700.0, 
+          -900.0
+        ], 
+        [
+          -700.0, 
+          800.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          -700.0, 
+          800.0
+        ], 
+        [
+          -700.0, 
+          1100.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          -700.0, 
+          1100.0
+        ], 
+        [
+          700.0, 
+          1100.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          700.0, 
+          1100.0
+        ], 
+        [
+          700.0, 
+          800.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          700.0, 
+          -1200.0
+        ], 
+        [
+          -700.0, 
+          -1200.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          -700.0, 
+          -900.0
+        ], 
+        [
+          -700.0, 
+          -1200.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          700.0, 
+          -900.0
+        ], 
+        [
+          700.0, 
+          -1200.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "MAX9814", 
+      "y": 1000.0, 
+      "x": -200.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "56"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "Microphone", 
+      "y": 900.0, 
+      "x": -500.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "56"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "VDD:", 
+      "y": -1000.0, 
+      "x": -400.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "56"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "2.7-5.5V", 
+      "y": -1000.0, 
+      "x": 0.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "56"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "Temp:", 
+      "y": -1100.0, 
+      "x": -400.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "56"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "-40\u00c2\u00b0C-85\u00c2\u00b0C", 
+      "y": -1100.0, 
+      "x": 0.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "56"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": ">NAME", 
+      "y": 1200.0, 
+      "x": -700.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "50"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": ">VALUE", 
+      "y": -1300.0, 
+      "x": -700.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "50"
+    }
+  ], 
+  "name": "AUDIOAMP_MAX9814_WFDFN-14", 
+  "reference": "U", 
+  "text": [
+    {
+      "orientation": "H", 
+      "reference": "U", 
+      "hjustify": "C", 
+      "number": 0, 
+      "vjustify": "C", 
+      "visible": false, 
+      "bold": false, 
+      "italic": false, 
+      "y": "0", 
+      "x": "0", 
+      "size": "0"
+    }, 
+    {
+      "orientation": "H", 
+      "reference": "AUDIOAMP_MAX9814_WFDFN-14", 
+      "hjustify": "C", 
+      "number": 1, 
+      "vjustify": "C", 
+      "visible": false, 
+      "bold": false, 
+      "italic": false, 
+      "y": "0", 
+      "x": "0", 
+      "size": "0"
+    }
+  ], 
+  "power_flag": "N", 
+  "units_locked": "0", 
+  "text_offset": "100", 
+  "draw_pin_name": true, 
+  "pin": [
+    {
+      "direction": "R", 
+      "name": "BIAS", 
+      "number": "P$12", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "300", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "MICBIAS", 
+      "number": "P$13", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "200", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "MICIN", 
+      "number": "P$8", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-100", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "CT", 
+      "number": "P$1", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-400", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "CG", 
+      "number": "P$3", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-600", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "VDD", 
+      "number": "P$5", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "700", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "SHUTDOWN", 
+      "number": "P$2", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "500", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "GND", 
+      "number": "P$7", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-800", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "L", 
+      "name": "A/R", 
+      "number": "P$9", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "700", 
+      "x": "800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "L", 
+      "name": "TH", 
+      "number": "P$14", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "500", 
+      "x": "800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "L", 
+      "name": "GAIN", 
+      "number": "P$10", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "300", 
+      "x": "800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "L", 
+      "name": "MICOUT", 
+      "number": "P$6", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-100", 
+      "x": "800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "L", 
+      "name": "NC@1", 
+      "number": "P$4", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-500", 
+      "x": "800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "L", 
+      "name": "NC@2", 
+      "number": "P$11", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-600", 
+      "x": "800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "L", 
+      "name": "THERMAL", 
+      "number": "P$TH", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-800", 
+      "x": "800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }
+  ], 
+  "draw_pin_number": true, 
+  "unit_count": 2
+}

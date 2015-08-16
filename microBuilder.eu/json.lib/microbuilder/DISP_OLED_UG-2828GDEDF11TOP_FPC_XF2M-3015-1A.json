@@ -1,0 +1,881 @@
+{
+  "art": [
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          -700.0, 
+          -1600.0
+        ], 
+        [
+          -700.0, 
+          1500.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          -700.0, 
+          1500.0
+        ], 
+        [
+          700.0, 
+          1500.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          700.0, 
+          1500.0
+        ], 
+        [
+          700.0, 
+          -1600.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          700.0, 
+          -1600.0
+        ], 
+        [
+          -700.0, 
+          -1600.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          -250.0, 
+          1100.0
+        ], 
+        [
+          550.0, 
+          1100.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          550.0, 
+          1100.0
+        ], 
+        [
+          550.0, 
+          350.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          550.0, 
+          350.0
+        ], 
+        [
+          -250.0, 
+          350.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          -250.0, 
+          350.0
+        ], 
+        [
+          -250.0, 
+          1100.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          -200.0, 
+          200.0
+        ], 
+        [
+          -100.0, 
+          200.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          -100.0, 
+          200.0
+        ], 
+        [
+          -100.0, 
+          100.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "count": 2, 
+      "line_width": "10", 
+      "convert": "0", 
+      "shape": "path", 
+      "path": [
+        [
+          -100.0, 
+          100.0
+        ], 
+        [
+          -200.0, 
+          100.0
+        ]
+      ], 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "5", 
+      "y": 1000.0, 
+      "x": -675.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "40"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "10", 
+      "y": 500.0, 
+      "x": -700.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "40"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "15", 
+      "y": 0.0, 
+      "x": -700.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "40"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "20", 
+      "y": -500.0, 
+      "x": -700.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "40"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "25", 
+      "y": -1000.0, 
+      "x": -700.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "40"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "30", 
+      "y": -1500.0, 
+      "x": -700.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "40"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "1", 
+      "y": 1400.0, 
+      "x": -675.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "40"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": ">NAME", 
+      "y": 1550.0, 
+      "x": -700.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "50"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": ">VALUE", 
+      "y": -1700.0, 
+      "x": -700.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "50"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "1.50\\\"", 
+      "y": 1000.0, 
+      "x": -50.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "50"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "OLED", 
+      "y": 900.0, 
+      "x": -100.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "50"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "128x128", 
+      "y": 700.0, 
+      "x": 0.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "50"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "Pixels", 
+      "y": 600.0, 
+      "x": 50.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "50"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "3/4-Pin", 
+      "y": 125.0, 
+      "x": -50.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "70"
+    }, 
+    {
+      "direction": "0", 
+      "de_morgan_alternate_shape": "0", 
+      "shape": "text", 
+      "text": "SSD1351", 
+      "y": 400.0, 
+      "x": -50.0, 
+      "direction_unit": "deci-degrees", 
+      "type": "0", 
+      "unit": "0", 
+      "size": "70"
+    }
+  ], 
+  "name": "DISP_OLED_UG-2828GDEDF11TOP_FPC_XF2M-3015-1A", 
+  "reference": "U", 
+  "text": [
+    {
+      "orientation": "H", 
+      "reference": "U", 
+      "hjustify": "C", 
+      "number": 0, 
+      "vjustify": "C", 
+      "visible": false, 
+      "bold": false, 
+      "italic": false, 
+      "y": "0", 
+      "x": "0", 
+      "size": "0"
+    }, 
+    {
+      "orientation": "H", 
+      "reference": "DISP_OLED_UG-2828GDEDF11TOP_FPC_XF2M-3015-1A", 
+      "hjustify": "C", 
+      "number": 1, 
+      "vjustify": "C", 
+      "visible": false, 
+      "bold": false, 
+      "italic": false, 
+      "y": "0", 
+      "x": "0", 
+      "size": "0"
+    }
+  ], 
+  "power_flag": "N", 
+  "units_locked": "0", 
+  "text_offset": "100", 
+  "draw_pin_name": true, 
+  "pin": [
+    {
+      "direction": "R", 
+      "name": "NC(GND)@1", 
+      "number": "P$30", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "1400", 
+      "x": "-800", 
+      "electrical_type": "N", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "VCC", 
+      "number": "P$29", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "1300", 
+      "x": "-800", 
+      "electrical_type": "W", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "VCOMH", 
+      "number": "P$28", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "1200", 
+      "x": "-800", 
+      "electrical_type": "W", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "VDDIO", 
+      "number": "P$27", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "1100", 
+      "x": "-800", 
+      "electrical_type": "W", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "VSL", 
+      "number": "P$26", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "1000", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "NC@1", 
+      "number": "P$25", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "900", 
+      "x": "-800", 
+      "electrical_type": "N", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "D7", 
+      "number": "P$24", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "800", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "D6", 
+      "number": "P$23", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "700", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "D5", 
+      "number": "P$22", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "600", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "D4", 
+      "number": "P$21", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "500", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "D3", 
+      "number": "P$20", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "400", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "D2", 
+      "number": "P$19", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "300", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "D1/SDIN", 
+      "number": "P$18", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "200", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "D0/SCK", 
+      "number": "P$17", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "100", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "E/RD#", 
+      "number": "P$16", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "0", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "R/W#", 
+      "number": "P$15", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-100", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "BS0", 
+      "number": "P$14", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-200", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "BS1", 
+      "number": "P$13", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-300", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "CS#", 
+      "number": "P$12", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-400", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "D/C#", 
+      "number": "P$11", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-500", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "RES#", 
+      "number": "P$10", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-600", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "IREF", 
+      "number": "P$9", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-700", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "GPIO1", 
+      "number": "P$8", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-800", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "GPIO0", 
+      "number": "P$7", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-900", 
+      "x": "-800", 
+      "electrical_type": "B", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "NC@2", 
+      "number": "P$6", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-1000", 
+      "x": "-800", 
+      "electrical_type": "N", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "VDD", 
+      "number": "P$5", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-1100", 
+      "x": "-800", 
+      "electrical_type": "W", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "VCI", 
+      "number": "P$4", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-1200", 
+      "x": "-800", 
+      "electrical_type": "W", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "VSS", 
+      "number": "P$3", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-1300", 
+      "x": "-800", 
+      "electrical_type": "W", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "NC@3", 
+      "number": "P$2", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-1400", 
+      "x": "-800", 
+      "electrical_type": "N", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }, 
+    {
+      "direction": "R", 
+      "name": "NC(GND)@2", 
+      "number": "P$1", 
+      "shape": null, 
+      "visible": true, 
+      "length": "100", 
+      "text_size_number": "0", 
+      "y": "-1500", 
+      "x": "-800", 
+      "electrical_type": "N", 
+      "de_morgan_alternate_shape": "0", 
+      "text_size_name": "60", 
+      "unit": "0"
+    }
+  ], 
+  "draw_pin_number": true, 
+  "unit_count": 2
+}

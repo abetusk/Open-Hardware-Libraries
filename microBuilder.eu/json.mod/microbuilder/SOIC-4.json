@@ -1,0 +1,423 @@
+{
+  "library_name": "SOIC-4", 
+  "layer": "15", 
+  "attribute1": "00000000", 
+  "art": [
+    {
+      "line_width": 80.0, 
+      "startx": -925.0, 
+      "starty": -787.0, 
+      "endy": -787.0, 
+      "endx": 925.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 925.0, 
+      "starty": -787.0, 
+      "endy": 787.0, 
+      "endx": 925.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 925.0, 
+      "starty": 787.0, 
+      "endy": 787.0, 
+      "endx": -925.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -925.0, 
+      "starty": 787.0, 
+      "endy": -787.0, 
+      "endx": -925.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -750.0, 
+      "starty": -381.0, 
+      "endy": -381.0, 
+      "endx": -500.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 500.0, 
+      "starty": -500.0, 
+      "endy": -250.0, 
+      "endx": 500.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 375.0, 
+      "starty": -372.0, 
+      "endy": -372.0, 
+      "endx": 625.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "layer": "21", 
+      "angle": 1.7435839227423353, 
+      "start_angle": -2.44685437739309, 
+      "shape": "arc", 
+      "r": 78.10249675906654, 
+      "start_x": "-748", 
+      "start_y": "501", 
+      "y": "551", 
+      "x": "-688"
+    }, 
+    {
+      "line_width": 80.0, 
+      "layer": "21", 
+      "angle": 1.7435839227423353, 
+      "start_angle": 0.6930688286658493, 
+      "shape": "arc", 
+      "r": 76.69419795525604, 
+      "start_x": "-511", 
+      "start_y": "501", 
+      "y": "452", 
+      "x": "-570"
+    }, 
+    {
+      "line_width": 80.0, 
+      "layer": "21", 
+      "angle": 1.7435839227423353, 
+      "start_angle": -2.44685437739309, 
+      "shape": "arc", 
+      "r": 78.10249675906654, 
+      "start_x": "501", 
+      "start_y": "501", 
+      "y": "551", 
+      "x": "561"
+    }, 
+    {
+      "line_width": 80.0, 
+      "layer": "21", 
+      "angle": 1.7435839227423353, 
+      "start_angle": 0.6930688286658493, 
+      "shape": "arc", 
+      "r": 76.69419795525604, 
+      "start_x": "738", 
+      "start_y": "501", 
+      "y": "452", 
+      "x": "679"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -688.0, 
+      "starty": -807.0, 
+      "endy": -807.0, 
+      "endx": -374.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -374.0, 
+      "starty": -807.0, 
+      "endy": -1358.0, 
+      "endx": -374.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -374.0, 
+      "starty": -1358.0, 
+      "endy": -1358.0, 
+      "endx": -688.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -688.0, 
+      "starty": -1358.0, 
+      "endy": -807.0, 
+      "endx": -688.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 374.0, 
+      "starty": -807.0, 
+      "endy": -807.0, 
+      "endx": 688.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 688.0, 
+      "starty": -807.0, 
+      "endy": -1358.0, 
+      "endx": 688.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 688.0, 
+      "starty": -1358.0, 
+      "endy": -1358.0, 
+      "endx": 374.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 374.0, 
+      "starty": -1358.0, 
+      "endy": -807.0, 
+      "endx": 374.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 374.0, 
+      "starty": 1358.0, 
+      "endy": 1358.0, 
+      "endx": 688.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 688.0, 
+      "starty": 1358.0, 
+      "endy": 807.0, 
+      "endx": 688.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 688.0, 
+      "starty": 807.0, 
+      "endy": 807.0, 
+      "endx": 374.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 374.0, 
+      "starty": 807.0, 
+      "endy": 1358.0, 
+      "endx": 374.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -688.0, 
+      "starty": 1358.0, 
+      "endy": 1358.0, 
+      "endx": -374.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -374.0, 
+      "starty": 1358.0, 
+      "endy": 807.0, 
+      "endx": -374.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -374.0, 
+      "starty": 807.0, 
+      "endy": 807.0, 
+      "endx": -688.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -688.0, 
+      "starty": 807.0, 
+      "endy": 1358.0, 
+      "endx": -688.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -807.0, 
+      "starty": -590.0, 
+      "endy": -590.0, 
+      "endx": 807.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 807.0, 
+      "starty": -590.0, 
+      "endy": -708.0, 
+      "endx": 807.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 807.0, 
+      "starty": -708.0, 
+      "endy": -708.0, 
+      "endx": -807.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -807.0, 
+      "starty": -708.0, 
+      "endy": -590.0, 
+      "endx": -807.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }
+  ], 
+  "name": "SOIC-4", 
+  "keyword": [
+    " <b>SOIC-4 Package</b><p>"
+  ], 
+  "text": [
+    {
+      "layer": "26", 
+      "angle": 1.5707963267948966, 
+      "misc": " \">NAME\"", 
+      "sizex": 320.0, 
+      "number": "0", 
+      "sizey": 320.0, 
+      "visible": true, 
+      "flag": "N", 
+      "text": ">NAME", 
+      "y": -210.0, 
+      "x": -1160.0, 
+      "rotation": "900", 
+      "penwidth": 57.0
+    }, 
+    {
+      "layer": "26", 
+      "angle": 1.5707963267948966, 
+      "misc": " \">VALUE\"", 
+      "sizex": 160.0, 
+      "number": "1", 
+      "sizey": 160.0, 
+      "visible": true, 
+      "flag": "N", 
+      "text": ">VALUE", 
+      "y": 270.0, 
+      "x": 1120.0, 
+      "rotation": "900", 
+      "penwidth": 16.0
+    }
+  ], 
+  "timestamp_op": "00000000", 
+  "rotation_cost_180": "0", 
+  "attribute2": "~~", 
+  "y": 0.0, 
+  "rotation_cost_misc": "0", 
+  "pad": [
+    {
+      "angle": 0.0, 
+      "name": "-", 
+      "drill_diam": 0.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 472.0, 
+      "sizey": 472.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00888000", 
+      "shape": "rectangle", 
+      "drill_y": 0.0, 
+      "posy": -1200.0, 
+      "posx": -511.0, 
+      "shape_code": "R", 
+      "type": "SMD", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }, 
+    {
+      "angle": 0.0, 
+      "name": "+", 
+      "drill_diam": 0.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 472.0, 
+      "sizey": 472.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00888000", 
+      "shape": "rectangle", 
+      "drill_y": 0.0, 
+      "posy": -1200.0, 
+      "posx": 511.0, 
+      "shape_code": "R", 
+      "type": "SMD", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }, 
+    {
+      "angle": 3.141592653589793, 
+      "name": "~2", 
+      "drill_diam": 0.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 472.0, 
+      "sizey": 472.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00888000", 
+      "shape": "rectangle", 
+      "drill_y": 0.0, 
+      "posy": 1200.0, 
+      "posx": 511.0, 
+      "shape_code": "R", 
+      "type": "SMD", 
+      "drill_shape": "circle", 
+      "orientation": 1800
+    }, 
+    {
+      "angle": 3.141592653589793, 
+      "name": "~1", 
+      "drill_diam": 0.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 472.0, 
+      "sizey": 472.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00888000", 
+      "shape": "rectangle", 
+      "drill_y": 0.0, 
+      "posy": 1200.0, 
+      "posx": -511.0, 
+      "shape_code": "R", 
+      "type": "SMD", 
+      "drill_shape": "circle", 
+      "orientation": 1800
+    }
+  ], 
+  "timestamp": "00000000", 
+  "units": "deci-mils", 
+  "x": 0.0, 
+  "rotation_cost_90": "0", 
+  "angle": 0.0, 
+  "orientation": "0"
+}
