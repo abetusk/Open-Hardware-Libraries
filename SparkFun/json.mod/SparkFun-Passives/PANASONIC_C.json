@@ -1,0 +1,252 @@
+{
+  "library_name": "PANASONIC_C", 
+  "layer": "15", 
+  "attribute1": "00000000", 
+  "art": [
+    {
+      "line_width": 80.0, 
+      "startx": -1023.0, 
+      "starty": -964.0, 
+      "endy": -964.0, 
+      "endx": 629.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 629.0, 
+      "starty": -964.0, 
+      "endy": -531.0, 
+      "endx": 1062.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 1062.0, 
+      "starty": 688.0, 
+      "endy": 1122.0, 
+      "endx": 629.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 629.0, 
+      "starty": 1122.0, 
+      "endy": 1122.0, 
+      "endx": -1023.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 40.0, 
+      "startx": -1023.0, 
+      "starty": -964.0, 
+      "endy": -964.0, 
+      "endx": 629.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 40.0, 
+      "startx": 629.0, 
+      "starty": -964.0, 
+      "endy": -531.0, 
+      "endx": 1062.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 40.0, 
+      "startx": 1062.0, 
+      "starty": 688.0, 
+      "endy": 1122.0, 
+      "endx": 629.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 40.0, 
+      "startx": 629.0, 
+      "starty": 1122.0, 
+      "endy": 1122.0, 
+      "endx": -1023.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -1023.0, 
+      "starty": -964.0, 
+      "endy": -137.0, 
+      "endx": -1023.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -1023.0, 
+      "starty": 1122.0, 
+      "endy": 295.0, 
+      "endx": -1023.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 1062.0, 
+      "starty": -531.0, 
+      "endy": -137.0, 
+      "endx": 1062.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 1062.0, 
+      "starty": 688.0, 
+      "endy": 275.0, 
+      "endx": 1062.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 40.0, 
+      "startx": -1023.0, 
+      "starty": -964.0, 
+      "endy": 1122.0, 
+      "endx": -1023.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 40.0, 
+      "startx": 1062.0, 
+      "starty": -531.0, 
+      "endy": 688.0, 
+      "endx": 1062.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "layer": "21", 
+      "angle": 2.73318560862312, 
+      "start_angle": -2.9292788457056087, 
+      "shape": "arc", 
+      "r": 972.8442835315424, 
+      "start_x": "-944", 
+      "start_y": "-137", 
+      "y": "68", 
+      "x": "7"
+    }, 
+    {
+      "line_width": 80.0, 
+      "layer": "21", 
+      "angle": 2.6982790235832335, 
+      "start_angle": 0.21088145385590518, 
+      "shape": "arc", 
+      "r": 988.9074779775912, 
+      "start_x": "984", 
+      "start_y": "275", 
+      "y": "68", 
+      "x": "17"
+    }, 
+    {
+      "line_width": 40.0, 
+      "layer": "25", 
+      "shape": "circle", 
+      "r": 984.0, 
+      "y": 78.0, 
+      "x": 19.0
+    }
+  ], 
+  "name": "PANASONIC_C", 
+  "keyword": [
+    " <b>Panasonic Aluminium Electrolytic Capacitor VS-Serie Package E</b>"
+  ], 
+  "text": [
+    {
+      "layer": "26", 
+      "angle": 0.0, 
+      "misc": " \">NAME\"", 
+      "sizex": 160.0, 
+      "number": "0", 
+      "sizey": 160.0, 
+      "visible": true, 
+      "flag": "N", 
+      "text": ">NAME", 
+      "y": -982.0, 
+      "x": -703.0, 
+      "rotation": "0", 
+      "penwidth": 12.0
+    }, 
+    {
+      "layer": "26", 
+      "angle": 0.0, 
+      "misc": " \">VALUE\"", 
+      "sizex": 160.0, 
+      "number": "1", 
+      "sizey": 160.0, 
+      "visible": true, 
+      "flag": "N", 
+      "text": ">VALUE", 
+      "y": 1438.0, 
+      "x": -543.0, 
+      "rotation": "0", 
+      "penwidth": 12.0
+    }
+  ], 
+  "timestamp_op": "00000000", 
+  "rotation_cost_180": "0", 
+  "attribute2": "~~", 
+  "y": 0.0, 
+  "rotation_cost_misc": "0", 
+  "pad": [
+    {
+      "angle": 0.0, 
+      "name": "-", 
+      "drill_diam": 0.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 866.0, 
+      "sizey": 255.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00888000", 
+      "shape": "rectangle", 
+      "drill_y": 0.0, 
+      "posy": 78.0, 
+      "posx": -708.0, 
+      "shape_code": "R", 
+      "type": "SMD", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }, 
+    {
+      "angle": 0.0, 
+      "name": "+", 
+      "drill_diam": 0.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 866.0, 
+      "sizey": 255.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00888000", 
+      "shape": "rectangle", 
+      "drill_y": 0.0, 
+      "posy": 78.0, 
+      "posx": 748.0, 
+      "shape_code": "R", 
+      "type": "SMD", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }
+  ], 
+  "timestamp": "00000000", 
+  "units": "deci-mils", 
+  "x": 0.0, 
+  "rotation_cost_90": "0", 
+  "angle": 0.0, 
+  "orientation": "0"
+}

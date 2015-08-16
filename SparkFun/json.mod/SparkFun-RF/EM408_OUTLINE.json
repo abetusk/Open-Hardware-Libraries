@@ -1,0 +1,256 @@
+{
+  "library_name": "EM408_OUTLINE", 
+  "layer": "15", 
+  "attribute1": "00000000", 
+  "art": [
+    {
+      "line_width": 50.0, 
+      "startx": 15000.0, 
+      "starty": 0.0, 
+      "endy": -14015.0, 
+      "endx": 15000.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 15000.0, 
+      "starty": -14015.0, 
+      "endy": -14015.0, 
+      "endx": 0.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 0.0, 
+      "starty": -7125.0, 
+      "endy": 0.0, 
+      "endx": 0.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -3858.0, 
+      "starty": -12716.0, 
+      "endy": -7637.0, 
+      "endx": -3858.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -3858.0, 
+      "starty": -7637.0, 
+      "endy": -7637.0, 
+      "endx": -551.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 0.0, 
+      "starty": -14015.0, 
+      "endy": -14015.0, 
+      "endx": -1417.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -2677.0, 
+      "starty": -12834.0, 
+      "endy": -12834.0, 
+      "endx": -3858.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -3858.0, 
+      "starty": -12834.0, 
+      "endy": -12716.0, 
+      "endx": -3858.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "layer": "25", 
+      "angle": 1.668534764906579, 
+      "start_angle": -0.016307567127968256, 
+      "shape": "arc", 
+      "r": 1165.1549253210922, 
+      "start_x": "-1417", 
+      "start_y": "-14015", 
+      "y": "-13996", 
+      "x": "-2582"
+    }, 
+    {
+      "line_width": 50.0, 
+      "layer": "25", 
+      "angle": 1.6441001553786585, 
+      "start_angle": -1.6448792493439304, 
+      "shape": "arc", 
+      "r": 513.4082196459266, 
+      "start_x": "-551", 
+      "start_y": "-7637", 
+      "y": "-7125", 
+      "x": "-513"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 10826.0, 
+      "starty": 944.0, 
+      "endy": 944.0, 
+      "endx": 12598.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 12598.0, 
+      "starty": 944.0, 
+      "endy": 0.0, 
+      "endx": 12598.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 12598.0, 
+      "starty": 0.0, 
+      "endy": -3346.0, 
+      "endx": 12598.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 12598.0, 
+      "starty": -3346.0, 
+      "endy": -3346.0, 
+      "endx": 10826.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 10826.0, 
+      "starty": -3346.0, 
+      "endy": 0.0, 
+      "endx": 10826.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 10826.0, 
+      "starty": 0.0, 
+      "endy": 905.0, 
+      "endx": 10826.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 0.0, 
+      "starty": 0.0, 
+      "endy": 0.0, 
+      "endx": 10826.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 15000.0, 
+      "starty": 0.0, 
+      "endy": 0.0, 
+      "endx": 12598.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 2322.0, 
+      "starty": -3425.0, 
+      "endy": -3425.0, 
+      "endx": 12125.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 12125.0, 
+      "starty": -3425.0, 
+      "endy": -13267.0, 
+      "endx": 12125.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 12125.0, 
+      "starty": -13267.0, 
+      "endy": -13267.0, 
+      "endx": 2322.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 2322.0, 
+      "starty": -13267.0, 
+      "endy": -3425.0, 
+      "endx": 2322.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }
+  ], 
+  "name": "EM408_OUTLINE", 
+  "text": [
+    {
+      "layer": "25", 
+      "angle": 0.0, 
+      "misc": " \"ref**\"", 
+      "sizex": 0.0, 
+      "number": "0", 
+      "sizey": 0.0, 
+      "visible": false, 
+      "flag": "N", 
+      "text": "ref**", 
+      "y": 0.0, 
+      "x": 0.0, 
+      "rotation": "0", 
+      "penwidth": 0.0
+    }, 
+    {
+      "layer": "26", 
+      "angle": 0.0, 
+      "misc": " \"val**\"", 
+      "sizex": 0.0, 
+      "number": "1", 
+      "sizey": 0.0, 
+      "visible": false, 
+      "flag": "N", 
+      "text": "val**", 
+      "y": 0.0, 
+      "x": 0.0, 
+      "rotation": "0", 
+      "penwidth": 0.0
+    }
+  ], 
+  "timestamp_op": "00000000", 
+  "rotation_cost_180": "0", 
+  "attribute2": "~~", 
+  "y": 0.0, 
+  "rotation_cost_misc": "0", 
+  "pad": [], 
+  "timestamp": "00000000", 
+  "units": "deci-mils", 
+  "x": 0.0, 
+  "rotation_cost_90": "0", 
+  "angle": 0.0, 
+  "orientation": "0"
+}

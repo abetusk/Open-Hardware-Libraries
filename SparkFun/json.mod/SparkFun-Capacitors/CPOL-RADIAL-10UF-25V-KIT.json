@@ -1,0 +1,216 @@
+{
+  "library_name": "CPOL-RADIAL-10UF-25V-KIT", 
+  "layer": "15", 
+  "attribute1": "00000000", 
+  "art": [
+    {
+      "line_width": 80.0, 
+      "startx": -300.0, 
+      "starty": -550.0, 
+      "endy": -550.0, 
+      "endx": -700.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 700.0, 
+      "starty": -550.0, 
+      "endy": -550.0, 
+      "endx": 300.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 500.0, 
+      "starty": -750.0, 
+      "endy": -350.0, 
+      "endx": 500.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "layer": "21", 
+      "shape": "circle", 
+      "r": 984.0, 
+      "y": 0.0, 
+      "x": 0.0
+    }, 
+    {
+      "line_width": 0.0, 
+      "layer": "23", 
+      "shape": "circle", 
+      "r": 140.0, 
+      "y": 0.0, 
+      "x": -500.0
+    }, 
+    {
+      "line_width": 0.0, 
+      "layer": "22", 
+      "shape": "circle", 
+      "r": 380.0, 
+      "y": 0.0, 
+      "x": -500.0
+    }, 
+    {
+      "line_width": 0.0, 
+      "layer": "23", 
+      "shape": "circle", 
+      "r": 140.0, 
+      "y": 0.0, 
+      "x": 500.0
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 120.0, 
+      "starty": 380.0, 
+      "endy": 380.0, 
+      "endx": 880.0, 
+      "layer": "22", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 880.0, 
+      "starty": 380.0, 
+      "endy": -380.0, 
+      "endx": 880.0, 
+      "layer": "22", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 880.0, 
+      "starty": -380.0, 
+      "endy": -380.0, 
+      "endx": 120.0, 
+      "layer": "22", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 120.0, 
+      "starty": -380.0, 
+      "endy": 380.0, 
+      "endx": 120.0, 
+      "layer": "22", 
+      "shape": "segment"
+    }
+  ], 
+  "name": "CPOL-RADIAL-10UF-25V-KIT", 
+  "text": [
+    {
+      "layer": "25", 
+      "angle": 0.0, 
+      "misc": " \"ref**\"", 
+      "sizex": 0.0, 
+      "number": "0", 
+      "sizey": 0.0, 
+      "visible": false, 
+      "flag": "N", 
+      "text": "ref**", 
+      "y": 0.0, 
+      "x": 0.0, 
+      "rotation": "0", 
+      "penwidth": 0.0
+    }, 
+    {
+      "layer": "26", 
+      "angle": 0.0, 
+      "misc": " \"val**\"", 
+      "sizex": 0.0, 
+      "number": "1", 
+      "sizey": 0.0, 
+      "visible": false, 
+      "flag": "N", 
+      "text": "val**", 
+      "y": 0.0, 
+      "x": 0.0, 
+      "rotation": "0", 
+      "penwidth": 0.0
+    }, 
+    {
+      "layer": "26", 
+      "angle": 0.0, 
+      "misc": " \">Name\"", 
+      "sizex": 160.0, 
+      "number": "2", 
+      "sizey": 160.0, 
+      "visible": true, 
+      "flag": "N", 
+      "text": ">Name", 
+      "y": -520.0, 
+      "x": -30.0, 
+      "rotation": "0", 
+      "penwidth": 12.0
+    }, 
+    {
+      "layer": "26", 
+      "angle": 0.0, 
+      "misc": " \">Value\"", 
+      "sizex": 320.0, 
+      "number": "3", 
+      "sizey": 320.0, 
+      "visible": true, 
+      "flag": "N", 
+      "text": ">Value", 
+      "y": 1610.0, 
+      "x": 210.0, 
+      "rotation": "0", 
+      "penwidth": 25.0
+    }
+  ], 
+  "timestamp_op": "00000000", 
+  "rotation_cost_180": "0", 
+  "attribute2": "~~", 
+  "y": 0.0, 
+  "rotation_cost_misc": "0", 
+  "pad": [
+    {
+      "angle": 0.0, 
+      "name": "1", 
+      "drill_diam": 275.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 650.0, 
+      "sizey": 650.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00C0FFFF", 
+      "shape": "oblong", 
+      "drill_y": 0.0, 
+      "posy": 0.0, 
+      "posx": 500.0, 
+      "shape_code": "O", 
+      "type": "STD", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }, 
+    {
+      "angle": 0.0, 
+      "name": "2", 
+      "drill_diam": 275.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 650.0, 
+      "sizey": 650.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00C0FFFF", 
+      "shape": "oblong", 
+      "drill_y": 0.0, 
+      "posy": 0.0, 
+      "posx": -500.0, 
+      "shape_code": "O", 
+      "type": "STD", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }
+  ], 
+  "timestamp": "00000000", 
+  "units": "deci-mils", 
+  "x": 0.0, 
+  "rotation_cost_90": "0", 
+  "angle": 0.0, 
+  "orientation": "0"
+}

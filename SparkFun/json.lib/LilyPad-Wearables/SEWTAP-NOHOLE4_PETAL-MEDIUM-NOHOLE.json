@@ -1,0 +1,54 @@
+{
+  "art": [
+    {
+      "line_width": 6, 
+      "start_angle": 1.5707963267948966, 
+      "end_angle": -1.5707963267948966, 
+      "shape": "arc", 
+      "r": 30.0, 
+      "counterclockwise": true, 
+      "y": 0.0, 
+      "x": 30.0, 
+      "de_morgan_alternate_shape": "0", 
+      "unit": "0", 
+      "fill": "N"
+    }
+  ], 
+  "name": "SEWTAP-NOHOLE4_PETAL-MEDIUM-NOHOLE", 
+  "reference": "U", 
+  "text": [
+    {
+      "orientation": "H", 
+      "reference": "U", 
+      "hjustify": "C", 
+      "number": 0, 
+      "vjustify": "C", 
+      "visible": false, 
+      "bold": false, 
+      "italic": false, 
+      "y": "0", 
+      "x": "0", 
+      "size": "0"
+    }, 
+    {
+      "orientation": "H", 
+      "reference": "SEWTAP-NOHOLE4_PETAL-MEDIUM-NOHOLE", 
+      "hjustify": "C", 
+      "number": 1, 
+      "vjustify": "C", 
+      "visible": false, 
+      "bold": false, 
+      "italic": false, 
+      "y": "0", 
+      "x": "0", 
+      "size": "0"
+    }
+  ], 
+  "power_flag": "N", 
+  "units_locked": "0", 
+  "text_offset": "100", 
+  "draw_pin_name": true, 
+  "pin": [], 
+  "draw_pin_number": true, 
+  "unit_count": 2
+}

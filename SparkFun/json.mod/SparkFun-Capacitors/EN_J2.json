@@ -1,0 +1,216 @@
+{
+  "library_name": "EN_J2", 
+  "layer": "15", 
+  "attribute1": "00000000", 
+  "art": [
+    {
+      "line_width": 50.0, 
+      "startx": -984.0, 
+      "starty": 1377.0, 
+      "endy": 1377.0, 
+      "endx": 984.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -826.0, 
+      "starty": -1377.0, 
+      "endy": -1377.0, 
+      "endx": 826.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -826.0, 
+      "starty": -1377.0, 
+      "endy": -1220.0, 
+      "endx": -984.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -984.0, 
+      "starty": -1220.0, 
+      "endy": -905.0, 
+      "endx": -984.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 826.0, 
+      "starty": -1377.0, 
+      "endy": -1220.0, 
+      "endx": 984.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 984.0, 
+      "starty": -1220.0, 
+      "endy": -905.0, 
+      "endx": 984.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -984.0, 
+      "starty": 1377.0, 
+      "endy": 905.0, 
+      "endx": -984.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 984.0, 
+      "starty": 1377.0, 
+      "endy": 905.0, 
+      "endx": 984.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "layer": "21", 
+      "angle": 1.5917402778188285, 
+      "start_angle": 2.3509035342739444, 
+      "shape": "arc", 
+      "r": 1336.4505228402584, 
+      "start_x": "-1020", 
+      "start_y": "950", 
+      "y": "0", 
+      "x": "-80"
+    }, 
+    {
+      "line_width": 50.0, 
+      "layer": "21", 
+      "angle": -1.5132004614790837, 
+      "start_angle": 0.7523313401816933, 
+      "shape": "arc", 
+      "r": 1390.224801965495, 
+      "start_x": "1020", 
+      "start_y": "950", 
+      "y": "0", 
+      "x": "5"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 680.0, 
+      "starty": 500.0, 
+      "endy": 820.0, 
+      "endx": 680.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 530.0, 
+      "starty": 660.0, 
+      "endy": 660.0, 
+      "endx": 850.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "layer": "25", 
+      "shape": "circle", 
+      "r": 1338.0, 
+      "y": 0.0, 
+      "x": 0.0
+    }
+  ], 
+  "name": "EN_J2", 
+  "keyword": [
+    " Type J2 package for SMD supercap PRT-10317 (p# EEC-EN0F204J2)"
+  ], 
+  "text": [
+    {
+      "layer": "26", 
+      "angle": 0.0, 
+      "misc": " \">NAME\"", 
+      "sizex": 160.0, 
+      "number": "0", 
+      "sizey": 160.0, 
+      "visible": true, 
+      "flag": "N", 
+      "text": ">NAME", 
+      "y": -179.0, 
+      "x": -577.0, 
+      "rotation": "0", 
+      "penwidth": 12.0
+    }, 
+    {
+      "layer": "26", 
+      "angle": 0.0, 
+      "misc": " \">VALUE\"", 
+      "sizex": 160.0, 
+      "number": "1", 
+      "sizey": 160.0, 
+      "visible": true, 
+      "flag": "N", 
+      "text": ">VALUE", 
+      "y": 556.0, 
+      "x": -429.0, 
+      "rotation": "0", 
+      "penwidth": 12.0
+    }
+  ], 
+  "timestamp_op": "00000000", 
+  "rotation_cost_180": "0", 
+  "attribute2": "~~", 
+  "y": 0.0, 
+  "rotation_cost_misc": "0", 
+  "pad": [
+    {
+      "angle": 0.0, 
+      "name": "-", 
+      "drill_diam": 0.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 1968.0, 
+      "sizey": 944.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00888000", 
+      "shape": "rectangle", 
+      "drill_y": 0.0, 
+      "posy": -1102.0, 
+      "posx": 0.0, 
+      "shape_code": "R", 
+      "type": "SMD", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }, 
+    {
+      "angle": 0.0, 
+      "name": "+", 
+      "drill_diam": 0.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 1968.0, 
+      "sizey": 629.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00888000", 
+      "shape": "rectangle", 
+      "drill_y": 0.0, 
+      "posy": 1259.0, 
+      "posx": 0.0, 
+      "shape_code": "R", 
+      "type": "SMD", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }
+  ], 
+  "timestamp": "00000000", 
+  "units": "deci-mils", 
+  "x": 0.0, 
+  "rotation_cost_90": "0", 
+  "angle": 0.0, 
+  "orientation": "0"
+}

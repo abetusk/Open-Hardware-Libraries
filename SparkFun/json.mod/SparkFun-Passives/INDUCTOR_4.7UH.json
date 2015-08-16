@@ -1,0 +1,223 @@
+{
+  "library_name": "INDUCTOR_4.7UH", 
+  "layer": "15", 
+  "attribute1": "00000000", 
+  "art": [
+    {
+      "line_width": 80.0, 
+      "startx": -472.0, 
+      "starty": -354.0, 
+      "endy": -590.0, 
+      "endx": -236.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -236.0, 
+      "starty": -590.0, 
+      "endy": -590.0, 
+      "endx": 236.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 236.0, 
+      "starty": -590.0, 
+      "endy": -354.0, 
+      "endx": 472.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -472.0, 
+      "starty": 354.0, 
+      "endy": 540.0, 
+      "endx": -267.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "layer": "21", 
+      "angle": -1.4905111812031575, 
+      "start_angle": 2.316646775603786, 
+      "shape": "arc", 
+      "r": 393.45901946708506, 
+      "start_x": "-267", 
+      "start_y": "540", 
+      "y": "251", 
+      "x": "0"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 267.0, 
+      "starty": 540.0, 
+      "endy": 354.0, 
+      "endx": 472.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 11.0, 
+      "startx": -590.0, 
+      "starty": 236.0, 
+      "endy": 548.0, 
+      "endx": -278.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 11.0, 
+      "layer": "25", 
+      "angle": -1.5707963267948966, 
+      "start_angle": 2.356194490192345, 
+      "shape": "arc", 
+      "r": 393.1513703397204, 
+      "start_x": "-278", 
+      "start_y": "548", 
+      "y": "270", 
+      "x": "0"
+    }, 
+    {
+      "line_width": 11.0, 
+      "startx": 278.0, 
+      "starty": 548.0, 
+      "endy": 236.0, 
+      "endx": 590.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 11.0, 
+      "startx": 590.0, 
+      "starty": 236.0, 
+      "endy": -236.0, 
+      "endx": 590.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 11.0, 
+      "startx": 590.0, 
+      "starty": -236.0, 
+      "endy": -590.0, 
+      "endx": 236.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 11.0, 
+      "startx": 236.0, 
+      "starty": -590.0, 
+      "endy": -590.0, 
+      "endx": -236.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 11.0, 
+      "startx": -236.0, 
+      "starty": -590.0, 
+      "endy": -236.0, 
+      "endx": -590.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 11.0, 
+      "startx": -590.0, 
+      "starty": -236.0, 
+      "endy": 236.0, 
+      "endx": -590.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }
+  ], 
+  "name": "INDUCTOR_4.7UH", 
+  "text": [
+    {
+      "layer": "26", 
+      "angle": 0.0, 
+      "misc": " \">NAME\"", 
+      "sizex": 160.0, 
+      "number": "0", 
+      "sizey": 160.0, 
+      "visible": true, 
+      "flag": "N", 
+      "text": ">NAME", 
+      "y": -195.0, 
+      "x": 1422.0, 
+      "rotation": "0", 
+      "penwidth": 12.0
+    }, 
+    {
+      "layer": "26", 
+      "angle": 0.0, 
+      "misc": " \">VALUE\"", 
+      "sizex": 160.0, 
+      "number": "1", 
+      "sizey": 160.0, 
+      "visible": true, 
+      "flag": "N", 
+      "text": ">VALUE", 
+      "y": 473.0, 
+      "x": 1582.0, 
+      "rotation": "0", 
+      "penwidth": 12.0
+    }
+  ], 
+  "timestamp_op": "00000000", 
+  "rotation_cost_180": "0", 
+  "attribute2": "~~", 
+  "y": 0.0, 
+  "rotation_cost_misc": "0", 
+  "pad": [
+    {
+      "angle": 1.5707963267948966, 
+      "name": "P$1", 
+      "drill_diam": 0.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 511.0, 
+      "sizey": 511.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00888000", 
+      "shape": "rectangle", 
+      "drill_y": 0.0, 
+      "posy": 0.0, 
+      "posx": -590.0, 
+      "shape_code": "R", 
+      "type": "SMD", 
+      "drill_shape": "circle", 
+      "orientation": 900
+    }, 
+    {
+      "angle": 1.5707963267948966, 
+      "name": "P$2", 
+      "drill_diam": 0.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 511.0, 
+      "sizey": 511.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00888000", 
+      "shape": "rectangle", 
+      "drill_y": 0.0, 
+      "posy": 0.0, 
+      "posx": 590.0, 
+      "shape_code": "R", 
+      "type": "SMD", 
+      "drill_shape": "circle", 
+      "orientation": 900
+    }
+  ], 
+  "timestamp": "00000000", 
+  "units": "deci-mils", 
+  "x": 0.0, 
+  "rotation_cost_90": "0", 
+  "angle": 0.0, 
+  "orientation": "0"
+}

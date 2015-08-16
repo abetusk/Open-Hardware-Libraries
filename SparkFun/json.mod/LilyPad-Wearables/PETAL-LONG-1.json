@@ -1,0 +1,197 @@
+{
+  "library_name": "PETAL-LONG-1", 
+  "layer": "15", 
+  "attribute1": "00000000", 
+  "art": [
+    {
+      "line_width": 3.0, 
+      "startx": 0.0, 
+      "starty": 0.0, 
+      "endy": 0.0, 
+      "endx": 1062.0, 
+      "layer": "24", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "layer": "15", 
+      "angle": 1.9198621771937625, 
+      "start_angle": 2.180983739939161, 
+      "shape": "arc", 
+      "r": 912.7064150097774, 
+      "start_x": "1417", 
+      "start_y": "748", 
+      "y": "0", 
+      "x": "1940"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 1417.0, 
+      "starty": -748.0, 
+      "endy": -984.0, 
+      "endx": -157.0, 
+      "layer": "15", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "layer": "15", 
+      "angle": -1.5690509975429023, 
+      "start_angle": -1.5508587895129247, 
+      "shape": "arc", 
+      "r": 1003.199381977481, 
+      "start_x": "-157", 
+      "start_y": "-984", 
+      "y": "19", 
+      "x": "-177"
+    }, 
+    {
+      "line_width": 80.0, 
+      "layer": "15", 
+      "angle": -1.5690509975429023, 
+      "start_angle": 3.1226706094310064, 
+      "shape": "arc", 
+      "r": 1004.1797647831786, 
+      "start_x": "-1181", 
+      "start_y": "0", 
+      "y": "-19", 
+      "x": "-177"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -157.0, 
+      "starty": 984.0, 
+      "endy": 748.0, 
+      "endx": 1417.0, 
+      "layer": "15", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "layer": "23", 
+      "angle": 1.9198621771937625, 
+      "start_angle": 2.180983739939161, 
+      "shape": "arc", 
+      "r": 912.7064150097774, 
+      "start_x": "1417", 
+      "start_y": "748", 
+      "y": "0", 
+      "x": "1940"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 1417.0, 
+      "starty": -748.0, 
+      "endy": -984.0, 
+      "endx": -157.0, 
+      "layer": "23", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "layer": "23", 
+      "angle": -1.5690509975429023, 
+      "start_angle": -1.5508587895129247, 
+      "shape": "arc", 
+      "r": 1003.199381977481, 
+      "start_x": "-157", 
+      "start_y": "-984", 
+      "y": "19", 
+      "x": "-177"
+    }, 
+    {
+      "line_width": 80.0, 
+      "layer": "23", 
+      "angle": -1.5690509975429023, 
+      "start_angle": 3.1226706094310064, 
+      "shape": "arc", 
+      "r": 1004.1797647831786, 
+      "start_x": "-1181", 
+      "start_y": "0", 
+      "y": "-19", 
+      "x": "-177"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -157.0, 
+      "starty": 984.0, 
+      "endy": 748.0, 
+      "endx": 1417.0, 
+      "layer": "23", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 3.0, 
+      "layer": "24", 
+      "shape": "circle", 
+      "r": 905.0, 
+      "y": 0.0, 
+      "x": 1968.0
+    }
+  ], 
+  "name": "PETAL-LONG-1", 
+  "text": [
+    {
+      "layer": "25", 
+      "angle": 0.0, 
+      "misc": " \"ref**\"", 
+      "sizex": 0.0, 
+      "number": "0", 
+      "sizey": 0.0, 
+      "visible": false, 
+      "flag": "N", 
+      "text": "ref**", 
+      "y": 0.0, 
+      "x": 0.0, 
+      "rotation": "0", 
+      "penwidth": 0.0
+    }, 
+    {
+      "layer": "26", 
+      "angle": 0.0, 
+      "misc": " \"val**\"", 
+      "sizex": 0.0, 
+      "number": "1", 
+      "sizey": 0.0, 
+      "visible": false, 
+      "flag": "N", 
+      "text": "val**", 
+      "y": 0.0, 
+      "x": 0.0, 
+      "rotation": "0", 
+      "penwidth": 0.0
+    }
+  ], 
+  "timestamp_op": "00000000", 
+  "rotation_cost_180": "0", 
+  "attribute2": "~~", 
+  "y": 0.0, 
+  "rotation_cost_misc": "0", 
+  "pad": [
+    {
+      "angle": 0.0, 
+      "name": "1", 
+      "drill_diam": 1100.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 1600.0, 
+      "sizey": 1600.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00C0FFFF", 
+      "shape": "oblong", 
+      "drill_y": 0.0, 
+      "posy": 0.0, 
+      "posx": 11.0, 
+      "shape_code": "O", 
+      "type": "STD", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }
+  ], 
+  "timestamp": "00000000", 
+  "units": "deci-mils", 
+  "x": 0.0, 
+  "rotation_cost_90": "0", 
+  "angle": 0.0, 
+  "orientation": "0"
+}

@@ -1,0 +1,445 @@
+{
+  "library_name": "RCA_LOCK", 
+  "layer": "15", 
+  "attribute1": "00000000", 
+  "art": [
+    {
+      "line_width": 80.0, 
+      "startx": -1574.0, 
+      "starty": -1968.0, 
+      "endy": 1968.0, 
+      "endx": -1574.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -1574.0, 
+      "starty": 1968.0, 
+      "endy": 1968.0, 
+      "endx": 2283.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 2283.0, 
+      "starty": 1968.0, 
+      "endy": -1968.0, 
+      "endx": 2283.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 2283.0, 
+      "starty": -1968.0, 
+      "endy": -1968.0, 
+      "endx": -1574.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -1574.0, 
+      "starty": -1574.0, 
+      "endy": -1574.0, 
+      "endx": -5275.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -5275.0, 
+      "starty": -1574.0, 
+      "endy": 1574.0, 
+      "endx": -5275.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -5275.0, 
+      "starty": 1574.0, 
+      "endy": 1574.0, 
+      "endx": -1574.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -787.0, 
+      "starty": -1968.0, 
+      "endy": -1968.0, 
+      "endx": 787.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 2283.0, 
+      "starty": -1968.0, 
+      "endy": 1968.0, 
+      "endx": 2283.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -787.0, 
+      "starty": 1968.0, 
+      "endy": 1968.0, 
+      "endx": 787.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -1574.0, 
+      "starty": -1181.0, 
+      "endy": 1181.0, 
+      "endx": -1574.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 10.0, 
+      "startx": 1760.0, 
+      "starty": 1380.0, 
+      "endy": 1380.0, 
+      "endx": 1130.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 10.0, 
+      "startx": 1760.0, 
+      "starty": -1360.0, 
+      "endy": -1360.0, 
+      "endx": 1130.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -1520.0, 
+      "starty": -1370.0, 
+      "endy": -1370.0, 
+      "endx": -930.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -930.0, 
+      "starty": -1370.0, 
+      "endy": -1960.0, 
+      "endx": -930.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -930.0, 
+      "starty": -1960.0, 
+      "endy": -1960.0, 
+      "endx": -1520.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -1520.0, 
+      "starty": -1960.0, 
+      "endy": -1370.0, 
+      "endx": -1520.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -1520.0, 
+      "starty": 1980.0, 
+      "endy": 1980.0, 
+      "endx": -930.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -930.0, 
+      "starty": 1980.0, 
+      "endy": 1390.0, 
+      "endx": -930.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -930.0, 
+      "starty": 1390.0, 
+      "endy": 1390.0, 
+      "endx": -1520.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -1520.0, 
+      "starty": 1390.0, 
+      "endy": 1980.0, 
+      "endx": -1520.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -490.0, 
+      "starty": 440.0, 
+      "endy": 440.0, 
+      "endx": 100.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 100.0, 
+      "starty": 440.0, 
+      "endy": -440.0, 
+      "endx": 100.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 100.0, 
+      "starty": -440.0, 
+      "endy": -440.0, 
+      "endx": -490.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": -490.0, 
+      "starty": -440.0, 
+      "endy": 440.0, 
+      "endx": -490.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 1130.0, 
+      "starty": 1530.0, 
+      "endy": 1530.0, 
+      "endx": 2010.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 2010.0, 
+      "starty": 1530.0, 
+      "endy": 1390.0, 
+      "endx": 2010.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 2010.0, 
+      "starty": 1390.0, 
+      "endy": 1390.0, 
+      "endx": 1130.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 1130.0, 
+      "starty": 1390.0, 
+      "endy": 1530.0, 
+      "endx": 1130.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 1130.0, 
+      "starty": -1370.0, 
+      "endy": -1370.0, 
+      "endx": 2010.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 2010.0, 
+      "starty": -1370.0, 
+      "endy": -1510.0, 
+      "endx": 2010.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 2010.0, 
+      "starty": -1510.0, 
+      "endy": -1510.0, 
+      "endx": 1130.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 50.0, 
+      "startx": 1130.0, 
+      "starty": -1510.0, 
+      "endy": -1370.0, 
+      "endx": 1130.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }
+  ], 
+  "name": "RCA_LOCK", 
+  "text": [
+    {
+      "layer": "25", 
+      "angle": 0.0, 
+      "misc": " \"ref**\"", 
+      "sizex": 0.0, 
+      "number": "0", 
+      "sizey": 0.0, 
+      "visible": false, 
+      "flag": "N", 
+      "text": "ref**", 
+      "y": 0.0, 
+      "x": 0.0, 
+      "rotation": "0", 
+      "penwidth": 0.0
+    }, 
+    {
+      "layer": "26", 
+      "angle": 0.0, 
+      "misc": " \"val**\"", 
+      "sizex": 0.0, 
+      "number": "1", 
+      "sizey": 0.0, 
+      "visible": false, 
+      "flag": "N", 
+      "text": "val**", 
+      "y": 0.0, 
+      "x": 0.0, 
+      "rotation": "0", 
+      "penwidth": 0.0
+    }
+  ], 
+  "timestamp_op": "00000000", 
+  "rotation_cost_180": "0", 
+  "attribute2": "~~", 
+  "y": 0.0, 
+  "rotation_cost_misc": "0", 
+  "pad": [
+    {
+      "angle": 0.0, 
+      "name": "Hole", 
+      "drill_diam": 840.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 840.0, 
+      "sizey": 840.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00E0FFFF", 
+      "shape": "circle", 
+      "drill_y": 0.0, 
+      "posy": -1673.0, 
+      "posx": -1220.0, 
+      "shape_code": "C", 
+      "type": "HOLE", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }, 
+    {
+      "angle": 0.0, 
+      "name": "Hole", 
+      "drill_diam": 840.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 840.0, 
+      "sizey": 840.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00E0FFFF", 
+      "shape": "circle", 
+      "drill_y": 0.0, 
+      "posy": 1673.0, 
+      "posx": -1220.0, 
+      "shape_code": "C", 
+      "type": "HOLE", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }, 
+    {
+      "angle": 0.0, 
+      "name": "SHELL", 
+      "drill_diam": 905.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 1357.0, 
+      "sizey": 1357.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00C0FFFF", 
+      "shape": "oblong", 
+      "drill_y": 0.0, 
+      "posy": 0.0, 
+      "posx": 80.0, 
+      "shape_code": "O", 
+      "type": "STD", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }, 
+    {
+      "angle": 0.0, 
+      "name": "PIN", 
+      "drill_diam": 905.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 1357.0, 
+      "sizey": 1357.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00C0FFFF", 
+      "shape": "oblong", 
+      "drill_y": 0.0, 
+      "posy": -1496.0, 
+      "posx": 1586.0, 
+      "shape_code": "O", 
+      "type": "STD", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }, 
+    {
+      "angle": 0.0, 
+      "name": "SWITCH", 
+      "drill_diam": 905.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 1357.0, 
+      "sizey": 1357.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00C0FFFF", 
+      "shape": "oblong", 
+      "drill_y": 0.0, 
+      "posy": 1506.0, 
+      "posx": 1586.0, 
+      "shape_code": "O", 
+      "type": "STD", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }
+  ], 
+  "timestamp": "00000000", 
+  "units": "deci-mils", 
+  "x": 0.0, 
+  "rotation_cost_90": "0", 
+  "angle": 0.0, 
+  "orientation": "0"
+}

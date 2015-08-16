@@ -1,0 +1,227 @@
+{
+  "library_name": "SCREWTERMINAL-3.5MM-3", 
+  "layer": "15", 
+  "attribute1": "00000000", 
+  "art": [
+    {
+      "line_width": 80.0, 
+      "startx": -905.0, 
+      "starty": -1338.0, 
+      "endy": -1338.0, 
+      "endx": 3661.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 3661.0, 
+      "starty": -1338.0, 
+      "endy": 1102.0, 
+      "endx": 3661.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 3661.0, 
+      "starty": 1102.0, 
+      "endy": 1417.0, 
+      "endx": 3661.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 3661.0, 
+      "starty": 1417.0, 
+      "endy": 1417.0, 
+      "endx": -905.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -905.0, 
+      "starty": 1417.0, 
+      "endy": 1102.0, 
+      "endx": -905.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -905.0, 
+      "starty": 1102.0, 
+      "endy": -1338.0, 
+      "endx": -905.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 3661.0, 
+      "starty": 1102.0, 
+      "endy": 1102.0, 
+      "endx": -905.0, 
+      "layer": "21", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -905.0, 
+      "starty": 531.0, 
+      "endy": 531.0, 
+      "endx": -1062.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -1062.0, 
+      "starty": 531.0, 
+      "endy": 925.0, 
+      "endx": -1062.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": -1062.0, 
+      "starty": 925.0, 
+      "endy": 925.0, 
+      "endx": -905.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 3661.0, 
+      "starty": -1240.0, 
+      "endy": -1240.0, 
+      "endx": 3818.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 3818.0, 
+      "starty": -1240.0, 
+      "endy": -846.0, 
+      "endx": 3818.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }, 
+    {
+      "line_width": 80.0, 
+      "startx": 3818.0, 
+      "starty": -846.0, 
+      "endy": -846.0, 
+      "endx": 3661.0, 
+      "layer": "25", 
+      "shape": "segment"
+    }
+  ], 
+  "name": "SCREWTERMINAL-3.5MM-3", 
+  "text": [
+    {
+      "layer": "26", 
+      "angle": 0.0, 
+      "misc": " \">NAME\"", 
+      "sizex": 160.0, 
+      "number": "0", 
+      "sizey": 160.0, 
+      "visible": true, 
+      "flag": "N", 
+      "text": ">NAME", 
+      "y": -920.0, 
+      "x": -180.0, 
+      "rotation": "0", 
+      "penwidth": 12.0
+    }, 
+    {
+      "layer": "26", 
+      "angle": 0.0, 
+      "misc": " \">VALUE\"", 
+      "sizex": 160.0, 
+      "number": "1", 
+      "sizey": 160.0, 
+      "visible": true, 
+      "flag": "N", 
+      "text": ">VALUE", 
+      "y": -420.0, 
+      "x": -20.0, 
+      "rotation": "0", 
+      "penwidth": 12.0
+    }
+  ], 
+  "timestamp_op": "00000000", 
+  "rotation_cost_180": "0", 
+  "attribute2": "~~", 
+  "y": 0.0, 
+  "rotation_cost_misc": "0", 
+  "pad": [
+    {
+      "angle": 0.0, 
+      "name": "1", 
+      "drill_diam": 472.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 950.0, 
+      "sizey": 950.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00C0FFFF", 
+      "shape": "oblong", 
+      "drill_y": 0.0, 
+      "posy": 0.0, 
+      "posx": 0.0, 
+      "shape_code": "O", 
+      "type": "STD", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }, 
+    {
+      "angle": 0.0, 
+      "name": "2", 
+      "drill_diam": 472.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 950.0, 
+      "sizey": 950.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00C0FFFF", 
+      "shape": "oblong", 
+      "drill_y": 0.0, 
+      "posy": 0.0, 
+      "posx": 1377.0, 
+      "shape_code": "O", 
+      "type": "STD", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }, 
+    {
+      "angle": 0.0, 
+      "name": "3", 
+      "drill_diam": 472.0, 
+      "deltax": 0.0, 
+      "deltay": 0.0, 
+      "sizex": 950.0, 
+      "sizey": 950.0, 
+      "drill_x": 0.0, 
+      "layer_mask": "00C0FFFF", 
+      "shape": "oblong", 
+      "drill_y": 0.0, 
+      "posy": 0.0, 
+      "posx": 2755.0, 
+      "shape_code": "O", 
+      "type": "STD", 
+      "drill_shape": "circle", 
+      "orientation": 0
+    }
+  ], 
+  "timestamp": "00000000", 
+  "units": "deci-mils", 
+  "x": 0.0, 
+  "rotation_cost_90": "0", 
+  "angle": 0.0, 
+  "orientation": "0"
+}
