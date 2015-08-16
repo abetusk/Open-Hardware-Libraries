@@ -1,0 +1,248 @@
+###############################################################################
+#Session: 2015-01-11 01:24:50
+###############################################################################
+
+
+###############################################################################
+#Session: 2015-01-11 01:25:17
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/adafruit.lbr
+Module Output: KiCAD/adafruit.mod
+Symbol Output: KiCAD/adafruit.lib
+Lib Name: adafruit
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 01:30:52
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/adafruit.lbr
+Module Output: KiCAD/adafruit.mod
+Symbol Output: KiCAD/adafruit.lib
+Lib Name: adafruit
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 68, in convertLib
+    lib = Library(node, name)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Library/Library.py", line 33, in __init__
+    self.modules.append(Module(package, converter))
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Module.py", line 49, in __init__
+    self.getParts(node, converter, elementNode)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Module.py", line 95, in getParts
+    self.texts.append(text + "bang!")
+TypeError: unsupported operand type(s) for +: 'Text' and 'str'
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 01:33:35
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/adafruit.lbr
+Module Output: KiCAD/adafruit.mod
+Symbol Output: KiCAD/adafruit.lib
+Lib Name: adafruit
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 01:38:56
+###############################################################################
+
+
+*******************************************
+Converting Lib: ../SparkFun-Electromechanical.lbr
+Module Output: SparkFun-Electromechanical.mod
+Symbol Output: SparkFun-Electromechanical.lib
+Lib Name: SparkFun-Electromechanical
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 66, in convertLib
+    node = getRootNode(fileName)
+  File "../../Eagle2Kicad/eagle2kicad", line 22, in getRootNode
+    node.parse(fileName, parser)
+  File "/usr/lib/python3.4/xml/etree/ElementTree.py", line 587, in parse
+    source = open(source, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '../SparkFun-Electromechanical.lbr'
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 01:39:28
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/adafruit.lbr
+Module Output: KiCAD/adafruit.mod
+Symbol Output: KiCAD/adafruit.lib
+Lib Name: adafruit
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 01:40:05
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/adafruit.lbr
+Module Output: KiCAD/adafruit.mod
+Symbol Output: KiCAD/adafruit.lib
+Lib Name: adafruit
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 01:41:05
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/adafruit.lbr
+Module Output: KiCAD/adafruit.mod
+Symbol Output: KiCAD/adafruit.lib
+Lib Name: adafruit
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 01:41:17
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/adafruit.lbr
+Module Output: KiCAD/adafruit.mod
+Symbol Output: KiCAD/adafruit.lib
+Lib Name: adafruit
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 01:43:16
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/adafruit.lbr
+Module Output: KiCAD/adafruit.mod
+Symbol Output: KiCAD/adafruit.lib
+Lib Name: adafruit
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 01:45:04
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/adafruit.lbr
+Module Output: KiCAD/adafruit.mod
+Symbol Output: KiCAD/adafruit.lib
+Lib Name: adafruit
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 68, in convertLib
+    lib = Library(node, name)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Library/Library.py", line 33, in __init__
+    self.modules.append(Module(package, converter))
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Module.py", line 49, in __init__
+    self.getParts(node, converter, elementNode)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Module.py", line 85, in getParts
+    text = Text(text, converter, True)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Shapes.py", line 399, in __init__
+    self.var = self.val + "zap"
+AttributeError: 'Text' object has no attribute 'var'
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 01:45:18
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/adafruit.lbr
+Module Output: KiCAD/adafruit.mod
+Symbol Output: KiCAD/adafruit.lib
+Lib Name: adafruit
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 01:46:11
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/adafruit.lbr
+Module Output: KiCAD/adafruit.mod
+Symbol Output: KiCAD/adafruit.lib
+Lib Name: adafruit
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 01:46:46
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/adafruit.lbr
+Module Output: KiCAD/adafruit.mod
+Symbol Output: KiCAD/adafruit.lib
+Lib Name: adafruit
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 01:47:19
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/adafruit.lbr
+Module Output: KiCAD/adafruit.mod
+Symbol Output: KiCAD/adafruit.lib
+Lib Name: adafruit
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:33:45
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/adafruit.lbr
+Module Output: KiCAD/adafruit.mod
+Symbol Output: KiCAD/adafruit.lib
+Lib Name: adafruit
+Conversion Successfull
+*******************************************
+
+
