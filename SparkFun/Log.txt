@@ -1,0 +1,2247 @@
+###############################################################################
+#Session: 2015-01-11 03:24:29
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Electromechanical.lbr
+Module Output: KiCAD/SparkFun-Electromechanical.mod
+Symbol Output: KiCAD/SparkFun-Electromechanical.lib
+Lib Name: SparkFun-Electromechanical
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:30:01
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/Eagle/LilyPad-Wearables.lbr.mod
+Symbol Output: KiCAD/Eagle/LilyPad-Wearables.lbr.lib
+Lib Name: LilyPad-Wearables
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 70, in convertLib
+    open(modFileName, 'w').close()
+FileNotFoundError: [Errno 2] No such file or directory: 'KiCAD/Eagle/LilyPad-Wearables.lbr.mod'
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:30:01
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Aesthetics.lbr
+Module Output: KiCAD/Eagle/SparkFun-Aesthetics.lbr.mod
+Symbol Output: KiCAD/Eagle/SparkFun-Aesthetics.lbr.lib
+Lib Name: SparkFun-Aesthetics
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 68, in convertLib
+    lib = Library(node, name)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Library/Library.py", line 33, in __init__
+    self.modules.append(Module(package, converter))
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Module.py", line 49, in __init__
+    self.getParts(node, converter, elementNode)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Module.py", line 65, in getParts
+    polygon = Polyline(polygon, converter, True)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Shapes.py", line 283, in __init__
+    line = Line(wire, converter, noTranspose, offset)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Shapes.py", line 16, in __init__
+    self.getWireInfo(node, converter, noTranspose, offset)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Shapes.py", line 37, in getWireInfo
+    width = converter.convertUnit(wire.get('width'))
+KeyboardInterrupt
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:30:02
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-AnalogIC.lbr
+Module Output: KiCAD/Eagle/SparkFun-AnalogIC.lbr.mod
+Symbol Output: KiCAD/Eagle/SparkFun-AnalogIC.lbr.lib
+Lib Name: SparkFun-AnalogIC
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 70, in convertLib
+    open(modFileName, 'w').close()
+FileNotFoundError: [Errno 2] No such file or directory: 'KiCAD/Eagle/SparkFun-AnalogIC.lbr.mod'
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:30:02
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Boards.lbr
+Module Output: KiCAD/Eagle/SparkFun-Boards.lbr.mod
+Symbol Output: KiCAD/Eagle/SparkFun-Boards.lbr.lib
+Lib Name: SparkFun-Boards
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 70, in convertLib
+    open(modFileName, 'w').close()
+FileNotFoundError: [Errno 2] No such file or directory: 'KiCAD/Eagle/SparkFun-Boards.lbr.mod'
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:30:03
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Capacitors.lbr
+Module Output: KiCAD/Eagle/SparkFun-Capacitors.lbr.mod
+Symbol Output: KiCAD/Eagle/SparkFun-Capacitors.lbr.lib
+Lib Name: SparkFun-Capacitors
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 70, in convertLib
+    open(modFileName, 'w').close()
+FileNotFoundError: [Errno 2] No such file or directory: 'KiCAD/Eagle/SparkFun-Capacitors.lbr.mod'
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:30:03
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Connectors.lbr
+Module Output: KiCAD/Eagle/SparkFun-Connectors.lbr.mod
+Symbol Output: KiCAD/Eagle/SparkFun-Connectors.lbr.lib
+Lib Name: SparkFun-Connectors
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 70, in convertLib
+    open(modFileName, 'w').close()
+FileNotFoundError: [Errno 2] No such file or directory: 'KiCAD/Eagle/SparkFun-Connectors.lbr.mod'
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:30:04
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-DigitalIC.lbr
+Module Output: KiCAD/Eagle/SparkFun-DigitalIC.lbr.mod
+Symbol Output: KiCAD/Eagle/SparkFun-DigitalIC.lbr.lib
+Lib Name: SparkFun-DigitalIC
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 70, in convertLib
+    open(modFileName, 'w').close()
+FileNotFoundError: [Errno 2] No such file or directory: 'KiCAD/Eagle/SparkFun-DigitalIC.lbr.mod'
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:30:04
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-DiscreteSemi.lbr
+Module Output: KiCAD/Eagle/SparkFun-DiscreteSemi.lbr.mod
+Symbol Output: KiCAD/Eagle/SparkFun-DiscreteSemi.lbr.lib
+Lib Name: SparkFun-DiscreteSemi
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 70, in convertLib
+    open(modFileName, 'w').close()
+FileNotFoundError: [Errno 2] No such file or directory: 'KiCAD/Eagle/SparkFun-DiscreteSemi.lbr.mod'
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:30:05
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Displays.lbr
+Module Output: KiCAD/Eagle/SparkFun-Displays.lbr.mod
+Symbol Output: KiCAD/Eagle/SparkFun-Displays.lbr.lib
+Lib Name: SparkFun-Displays
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 68, in convertLib
+    lib = Library(node, name)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Library/Library.py", line 57, in __init__
+    dp = DevicePart(device, symbolsHash, deviceset.getGates(), symConverter)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Symbol.py", line 18, in __init__
+    for gate in gates]
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Symbol.py", line 18, in <listcomp>
+    for gate in gates]
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Symbol.py", line 80, in __init__
+    self.wires.append(Line(wire, converter, True, offset))
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Shapes.py", line 16, in __init__
+    self.getWireInfo(node, converter, noTranspose, offset)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Shapes.py", line 33, in getWireInfo
+    x1, y1 = converter.convertCoordinate(wire.get('x1'), wire.get('y1'), noTranspose)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Converter.py", line 141, in convertCoordinate
+    return Converter.convertCoordinate(self, x, y, True, True)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Converter.py", line 100, in convertCoordinate
+    y = yTranspose + int(invertFactor * float(y) * self.factor)
+KeyboardInterrupt
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:30:05
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Electromechanical.lbr
+Module Output: KiCAD/Eagle/SparkFun-Electromechanical.lbr.mod
+Symbol Output: KiCAD/Eagle/SparkFun-Electromechanical.lbr.lib
+Lib Name: SparkFun-Electromechanical
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 70, in convertLib
+    open(modFileName, 'w').close()
+FileNotFoundError: [Errno 2] No such file or directory: 'KiCAD/Eagle/SparkFun-Electromechanical.lbr.mod'
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:30:11
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/Eagle/LilyPad-Wearables.lbr.mod
+Symbol Output: KiCAD/Eagle/LilyPad-Wearables.lbr.lib
+Lib Name: LilyPad-Wearables
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 70, in convertLib
+    open(modFileName, 'w').close()
+FileNotFoundError: [Errno 2] No such file or directory: 'KiCAD/Eagle/LilyPad-Wearables.lbr.mod'
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:30:40
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/Eagle/LilyPad-Wearables.lbr.mod
+Symbol Output: KiCAD/Eagle/LilyPad-Wearables.lbr.lib
+Lib Name: LilyPad-Wearables
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 70, in convertLib
+    open(modFileName, 'w').close()
+FileNotFoundError: [Errno 2] No such file or directory: 'KiCAD/Eagle/LilyPad-Wearables.lbr.mod'
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:31:01
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/Eagle/LilyPad-Wearables.lbr.mod
+Symbol Output: KiCAD/Eagle/LilyPad-Wearables.lbr.lib
+Lib Name: LilyPad-Wearables
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 70, in convertLib
+    open(modFileName, 'w').close()
+FileNotFoundError: [Errno 2] No such file or directory: 'KiCAD/Eagle/LilyPad-Wearables.lbr.mod'
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:31:49
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/LilyPad-Wearables.mod
+Symbol Output: KiCAD/LilyPad-Wearables.lib
+Lib Name: LilyPad-Wearables
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:32:25
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/LilyPad-Wearables.mod
+Symbol Output: KiCAD/LilyPad-Wearables.lib
+Lib Name: LilyPad-Wearables
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:33:04
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/LilyPad-Wearables.mod
+Symbol Output: KiCAD/LilyPad-Wearables.lib
+Lib Name: LilyPad-Wearables
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:34:28
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/LilyPad-Wearables.mod
+Symbol Output: KiCAD/LilyPad-Wearables.lib
+Lib Name: LilyPad-Wearables
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:35:45
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/LilyPad-Wearables.mod
+Symbol Output: KiCAD/LilyPad-Wearables.lib
+Lib Name: LilyPad-Wearables
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:36:16
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/LilyPad-Wearables.mod
+Symbol Output: KiCAD/LilyPad-Wearables.lib
+Lib Name: LilyPad-Wearables
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:36:49
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/LilyPad-Wearables.mod
+Symbol Output: KiCAD/LilyPad-Wearables.lib
+Lib Name: LilyPad-Wearables
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:37:43
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/LilyPad-Wearables.mod
+Symbol Output: KiCAD/LilyPad-Wearables.lib
+Lib Name: LilyPad-Wearables
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:37:50
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Aesthetics.lbr
+Module Output: KiCAD/SparkFun-Aesthetics.mod
+Symbol Output: KiCAD/SparkFun-Aesthetics.lib
+Lib Name: SparkFun-Aesthetics
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:38:28
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-AnalogIC.lbr
+Module Output: KiCAD/SparkFun-AnalogIC.mod
+Symbol Output: KiCAD/SparkFun-AnalogIC.lib
+Lib Name: SparkFun-AnalogIC
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:38:42
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Boards.lbr
+Module Output: KiCAD/SparkFun-Boards.mod
+Symbol Output: KiCAD/SparkFun-Boards.lib
+Lib Name: SparkFun-Boards
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:38:52
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Capacitors.lbr
+Module Output: KiCAD/SparkFun-Capacitors.mod
+Symbol Output: KiCAD/SparkFun-Capacitors.lib
+Lib Name: SparkFun-Capacitors
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:39:15
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Connectors.lbr
+Module Output: KiCAD/SparkFun-Connectors.mod
+Symbol Output: KiCAD/SparkFun-Connectors.lib
+Lib Name: SparkFun-Connectors
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:41:02
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-DigitalIC.lbr
+Module Output: KiCAD/SparkFun-DigitalIC.mod
+Symbol Output: KiCAD/SparkFun-DigitalIC.lib
+Lib Name: SparkFun-DigitalIC
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:41:46
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-DiscreteSemi.lbr
+Module Output: KiCAD/SparkFun-DiscreteSemi.mod
+Symbol Output: KiCAD/SparkFun-DiscreteSemi.lib
+Lib Name: SparkFun-DiscreteSemi
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:42:05
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Displays.lbr
+Module Output: KiCAD/SparkFun-Displays.mod
+Symbol Output: KiCAD/SparkFun-Displays.lib
+Lib Name: SparkFun-Displays
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:42:12
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Electromechanical.lbr
+Module Output: KiCAD/SparkFun-Electromechanical.mod
+Symbol Output: KiCAD/SparkFun-Electromechanical.lib
+Lib Name: SparkFun-Electromechanical
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:42:54
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-FreqCtrl.lbr
+Module Output: KiCAD/SparkFun-FreqCtrl.mod
+Symbol Output: KiCAD/SparkFun-FreqCtrl.lib
+Lib Name: SparkFun-FreqCtrl
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:43:01
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-LED.lbr
+Module Output: KiCAD/SparkFun-LED.mod
+Symbol Output: KiCAD/SparkFun-LED.lib
+Lib Name: SparkFun-LED
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:43:13
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Passives.lbr
+Module Output: KiCAD/SparkFun-Passives.mod
+Symbol Output: KiCAD/SparkFun-Passives.lib
+Lib Name: SparkFun-Passives
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:43:41
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-PowerIC.lbr
+Module Output: KiCAD/SparkFun-PowerIC.mod
+Symbol Output: KiCAD/SparkFun-PowerIC.lib
+Lib Name: SparkFun-PowerIC
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:44:06
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Resistors.lbr
+Module Output: KiCAD/SparkFun-Resistors.mod
+Symbol Output: KiCAD/SparkFun-Resistors.lib
+Lib Name: SparkFun-Resistors
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:44:28
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Retired.lbr
+Module Output: KiCAD/SparkFun-Retired.mod
+Symbol Output: KiCAD/SparkFun-Retired.lib
+Lib Name: SparkFun-Retired
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:44:49
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-RF.lbr
+Module Output: KiCAD/SparkFun-RF.mod
+Symbol Output: KiCAD/SparkFun-RF.lib
+Lib Name: SparkFun-RF
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 03:45:18
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Sensors.lbr
+Module Output: KiCAD/SparkFun-Sensors.mod
+Symbol Output: KiCAD/SparkFun-Sensors.lib
+Lib Name: SparkFun-Sensors
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:34:55
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/LilyPad-Wearables.mod
+Symbol Output: KiCAD/LilyPad-Wearables.lib
+Lib Name: LilyPad-Wearables
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:35:44
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/LilyPad-Wearables.mod
+Symbol Output: KiCAD/LilyPad-Wearables.lib
+Lib Name: LilyPad-Wearables
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:37:09
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/LilyPad-Wearables.mod
+Symbol Output: KiCAD/LilyPad-Wearables.lib
+Lib Name: LilyPad-Wearables
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:37:16
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Aesthetics.lbr
+Module Output: KiCAD/SparkFun-Aesthetics.mod
+Symbol Output: KiCAD/SparkFun-Aesthetics.lib
+Lib Name: SparkFun-Aesthetics
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:37:54
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-AnalogIC.lbr
+Module Output: KiCAD/SparkFun-AnalogIC.mod
+Symbol Output: KiCAD/SparkFun-AnalogIC.lib
+Lib Name: SparkFun-AnalogIC
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:38:08
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Boards.lbr
+Module Output: KiCAD/SparkFun-Boards.mod
+Symbol Output: KiCAD/SparkFun-Boards.lib
+Lib Name: SparkFun-Boards
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:38:18
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Capacitors.lbr
+Module Output: KiCAD/SparkFun-Capacitors.mod
+Symbol Output: KiCAD/SparkFun-Capacitors.lib
+Lib Name: SparkFun-Capacitors
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:38:42
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Connectors.lbr
+Module Output: KiCAD/SparkFun-Connectors.mod
+Symbol Output: KiCAD/SparkFun-Connectors.lib
+Lib Name: SparkFun-Connectors
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:40:29
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-DigitalIC.lbr
+Module Output: KiCAD/SparkFun-DigitalIC.mod
+Symbol Output: KiCAD/SparkFun-DigitalIC.lib
+Lib Name: SparkFun-DigitalIC
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:41:13
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-DiscreteSemi.lbr
+Module Output: KiCAD/SparkFun-DiscreteSemi.mod
+Symbol Output: KiCAD/SparkFun-DiscreteSemi.lib
+Lib Name: SparkFun-DiscreteSemi
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:41:32
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Displays.lbr
+Module Output: KiCAD/SparkFun-Displays.mod
+Symbol Output: KiCAD/SparkFun-Displays.lib
+Lib Name: SparkFun-Displays
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:41:39
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Electromechanical.lbr
+Module Output: KiCAD/SparkFun-Electromechanical.mod
+Symbol Output: KiCAD/SparkFun-Electromechanical.lib
+Lib Name: SparkFun-Electromechanical
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:42:20
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-FreqCtrl.lbr
+Module Output: KiCAD/SparkFun-FreqCtrl.mod
+Symbol Output: KiCAD/SparkFun-FreqCtrl.lib
+Lib Name: SparkFun-FreqCtrl
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:42:28
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-LED.lbr
+Module Output: KiCAD/SparkFun-LED.mod
+Symbol Output: KiCAD/SparkFun-LED.lib
+Lib Name: SparkFun-LED
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:42:39
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Passives.lbr
+Module Output: KiCAD/SparkFun-Passives.mod
+Symbol Output: KiCAD/SparkFun-Passives.lib
+Lib Name: SparkFun-Passives
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:43:07
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-PowerIC.lbr
+Module Output: KiCAD/SparkFun-PowerIC.mod
+Symbol Output: KiCAD/SparkFun-PowerIC.lib
+Lib Name: SparkFun-PowerIC
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:43:31
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Resistors.lbr
+Module Output: KiCAD/SparkFun-Resistors.mod
+Symbol Output: KiCAD/SparkFun-Resistors.lib
+Lib Name: SparkFun-Resistors
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:43:53
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Retired.lbr
+Module Output: KiCAD/SparkFun-Retired.mod
+Symbol Output: KiCAD/SparkFun-Retired.lib
+Lib Name: SparkFun-Retired
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:44:14
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-RF.lbr
+Module Output: KiCAD/SparkFun-RF.mod
+Symbol Output: KiCAD/SparkFun-RF.lib
+Lib Name: SparkFun-RF
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 14:44:44
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Sensors.lbr
+Module Output: KiCAD/SparkFun-Sensors.mod
+Symbol Output: KiCAD/SparkFun-Sensors.lib
+Lib Name: SparkFun-Sensors
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 15:59:58
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Aesthetics.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: SparkFun-Aesthetics
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 16:00:55
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Aesthetics.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: SparkFun-Aesthetics
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 16:01:05
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Aesthetics.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: SparkFun-Aesthetics
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 16:01:48
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Aesthetics.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: SparkFun-Aesthetics
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 16:12:28
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Aesthetics.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: SparkFun-Aesthetics
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 16:13:00
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Aesthetics.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: SparkFun-Aesthetics
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 16:14:11
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Aesthetics.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: SparkFun-Aesthetics
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 16:14:25
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Aesthetics.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: SparkFun-Aesthetics
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 16:14:42
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Aesthetics.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: SparkFun-Aesthetics
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 16:26:12
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Aesthetics.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: SparkFun-Aesthetics
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 16:27:43
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Aesthetics.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: SparkFun-Aesthetics
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 16:36:52
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 16:45:29
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 16:46:43
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 18:28:22
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 18:31:19
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 18:32:31
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 18:33:51
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 18:34:00
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 18:39:57
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 68, in convertLib
+    lib = Library(node, name)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Library/Library.py", line 33, in __init__
+    self.modules.append(Module(package, converter))
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Module.py", line 49, in __init__
+    self.getParts(node, converter, elementNode)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Module.py", line 59, in getParts
+    line = Line(line, converter, True)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Shapes.py", line 16, in __init__
+    self.getWireInfo(node, converter, noTranspose, offset)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Shapes.py", line 49, in getWireInfo
+    print("before c", cX,cY, "curve", curve, "r", r, "s,eAngle", sAngle, eAngle, "xy12", x1, y1, x2, y2 )
+NameError: name 'r' is not defined
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 18:40:15
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 18:40:57
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 18:46:54
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 18:53:25
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 20:43:20
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 20:49:20
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 20:50:03
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:03:33
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:04:48
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:05:21
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:06:06
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:14:32
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/LilyPad-Wearables.mod
+Symbol Output: KiCAD/LilyPad-Wearables.lib
+Lib Name: LilyPad-Wearables
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:15:00
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-AnalogIC.lbr
+Module Output: KiCAD/SparkFun-AnalogIC.mod
+Symbol Output: KiCAD/SparkFun-AnalogIC.lib
+Lib Name: SparkFun-AnalogIC
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:15:14
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Boards.lbr
+Module Output: KiCAD/SparkFun-Boards.mod
+Symbol Output: KiCAD/SparkFun-Boards.lib
+Lib Name: SparkFun-Boards
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 68, in convertLib
+    lib = Library(node, name)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Library/Library.py", line 33, in __init__
+    self.modules.append(Module(package, converter))
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Module.py", line 49, in __init__
+    self.getParts(node, converter, elementNode)
+  File "/home/abram/prog/github/abetusk/Eagle2Kicad/Common/Module.py", line 105, in getParts
+    contact = self.contacts.get(pad.get("name"))
+KeyboardInterrupt
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:15:27
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/LilyPad-Wearables.mod
+Symbol Output: KiCAD/LilyPad-Wearables.lib
+Lib Name: LilyPad-Wearables
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:16:15
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:25:15
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:26:59
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:28:30
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:29:01
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:30:29
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:30:51
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:31:14
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:33:05
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:33:24
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:33:43
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/LilyPad-Wearables.mod
+Symbol Output: KiCAD/LilyPad-Wearables.lib
+Lib Name: LilyPad-Wearables
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:33:50
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Aesthetics.lbr
+Module Output: KiCAD/SparkFun-Aesthetics.mod
+Symbol Output: KiCAD/SparkFun-Aesthetics.lib
+Lib Name: SparkFun-Aesthetics
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:34:27
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-AnalogIC.lbr
+Module Output: KiCAD/SparkFun-AnalogIC.mod
+Symbol Output: KiCAD/SparkFun-AnalogIC.lib
+Lib Name: SparkFun-AnalogIC
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:34:41
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Boards.lbr
+Module Output: KiCAD/SparkFun-Boards.mod
+Symbol Output: KiCAD/SparkFun-Boards.lib
+Lib Name: SparkFun-Boards
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:34:51
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Capacitors.lbr
+Module Output: KiCAD/SparkFun-Capacitors.mod
+Symbol Output: KiCAD/SparkFun-Capacitors.lib
+Lib Name: SparkFun-Capacitors
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:35:14
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Connectors.lbr
+Module Output: KiCAD/SparkFun-Connectors.mod
+Symbol Output: KiCAD/SparkFun-Connectors.lib
+Lib Name: SparkFun-Connectors
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:37:01
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-DigitalIC.lbr
+Module Output: KiCAD/SparkFun-DigitalIC.mod
+Symbol Output: KiCAD/SparkFun-DigitalIC.lib
+Lib Name: SparkFun-DigitalIC
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:37:45
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-DiscreteSemi.lbr
+Module Output: KiCAD/SparkFun-DiscreteSemi.mod
+Symbol Output: KiCAD/SparkFun-DiscreteSemi.lib
+Lib Name: SparkFun-DiscreteSemi
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:38:04
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Displays.lbr
+Module Output: KiCAD/SparkFun-Displays.mod
+Symbol Output: KiCAD/SparkFun-Displays.lib
+Lib Name: SparkFun-Displays
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:38:11
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Electromechanical.lbr
+Module Output: KiCAD/SparkFun-Electromechanical.mod
+Symbol Output: KiCAD/SparkFun-Electromechanical.lib
+Lib Name: SparkFun-Electromechanical
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:38:39
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/LilyPad-Wearables.mod
+Symbol Output: KiCAD/LilyPad-Wearables.lib
+Lib Name: LilyPad-Wearables
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:38:46
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Aesthetics.lbr
+Module Output: KiCAD/SparkFun-Aesthetics.mod
+Symbol Output: KiCAD/SparkFun-Aesthetics.lib
+Lib Name: SparkFun-Aesthetics
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:39:23
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-AnalogIC.lbr
+Module Output: KiCAD/SparkFun-AnalogIC.mod
+Symbol Output: KiCAD/SparkFun-AnalogIC.lib
+Lib Name: SparkFun-AnalogIC
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:39:38
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Boards.lbr
+Module Output: KiCAD/SparkFun-Boards.mod
+Symbol Output: KiCAD/SparkFun-Boards.lib
+Lib Name: SparkFun-Boards
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:39:47
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Capacitors.lbr
+Module Output: KiCAD/SparkFun-Capacitors.mod
+Symbol Output: KiCAD/SparkFun-Capacitors.lib
+Lib Name: SparkFun-Capacitors
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:40:11
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Connectors.lbr
+Module Output: KiCAD/SparkFun-Connectors.mod
+Symbol Output: KiCAD/SparkFun-Connectors.lib
+Lib Name: SparkFun-Connectors
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:41:57
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-DigitalIC.lbr
+Module Output: KiCAD/SparkFun-DigitalIC.mod
+Symbol Output: KiCAD/SparkFun-DigitalIC.lib
+Lib Name: SparkFun-DigitalIC
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:42:41
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-DiscreteSemi.lbr
+Module Output: KiCAD/SparkFun-DiscreteSemi.mod
+Symbol Output: KiCAD/SparkFun-DiscreteSemi.lib
+Lib Name: SparkFun-DiscreteSemi
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:43:00
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Displays.lbr
+Module Output: KiCAD/SparkFun-Displays.mod
+Symbol Output: KiCAD/SparkFun-Displays.lib
+Lib Name: SparkFun-Displays
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:43:07
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Electromechanical.lbr
+Module Output: KiCAD/SparkFun-Electromechanical.mod
+Symbol Output: KiCAD/SparkFun-Electromechanical.lib
+Lib Name: SparkFun-Electromechanical
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:43:48
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-FreqCtrl.lbr
+Module Output: KiCAD/SparkFun-FreqCtrl.mod
+Symbol Output: KiCAD/SparkFun-FreqCtrl.lib
+Lib Name: SparkFun-FreqCtrl
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:43:56
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-LED.lbr
+Module Output: KiCAD/SparkFun-LED.mod
+Symbol Output: KiCAD/SparkFun-LED.lib
+Lib Name: SparkFun-LED
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:44:07
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Passives.lbr
+Module Output: KiCAD/SparkFun-Passives.mod
+Symbol Output: KiCAD/SparkFun-Passives.lib
+Lib Name: SparkFun-Passives
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:44:35
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-PowerIC.lbr
+Module Output: KiCAD/SparkFun-PowerIC.mod
+Symbol Output: KiCAD/SparkFun-PowerIC.lib
+Lib Name: SparkFun-PowerIC
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:44:59
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Resistors.lbr
+Module Output: KiCAD/SparkFun-Resistors.mod
+Symbol Output: KiCAD/SparkFun-Resistors.lib
+Lib Name: SparkFun-Resistors
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:45:20
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Retired.lbr
+Module Output: KiCAD/SparkFun-Retired.mod
+Symbol Output: KiCAD/SparkFun-Retired.lib
+Lib Name: SparkFun-Retired
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:45:42
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-RF.lbr
+Module Output: KiCAD/SparkFun-RF.mod
+Symbol Output: KiCAD/SparkFun-RF.lib
+Lib Name: SparkFun-RF
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 21:46:11
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Sensors.lbr
+Module Output: KiCAD/SparkFun-Sensors.mod
+Symbol Output: KiCAD/SparkFun-Sensors.lib
+Lib Name: SparkFun-Sensors
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:15:17
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:15:52
+###############################################################################
+
+
+*******************************************
+Converting Lib: tmp/sf-aes.lbr
+Module Output: tmp/osh.mod
+Symbol Output: tmp/osh.lib
+Lib Name: sf-aes
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:17:26
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/LilyPad-Wearables.lbr
+Module Output: KiCAD/LilyPad-Wearables.mod
+Symbol Output: KiCAD/LilyPad-Wearables.lib
+Lib Name: LilyPad-Wearables
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:17:33
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Aesthetics.lbr
+Module Output: KiCAD/SparkFun-Aesthetics.mod
+Symbol Output: KiCAD/SparkFun-Aesthetics.lib
+Lib Name: SparkFun-Aesthetics
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:18:10
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-AnalogIC.lbr
+Module Output: KiCAD/SparkFun-AnalogIC.mod
+Symbol Output: KiCAD/SparkFun-AnalogIC.lib
+Lib Name: SparkFun-AnalogIC
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:18:25
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Boards.lbr
+Module Output: KiCAD/SparkFun-Boards.mod
+Symbol Output: KiCAD/SparkFun-Boards.lib
+Lib Name: SparkFun-Boards
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:18:35
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Capacitors.lbr
+Module Output: KiCAD/SparkFun-Capacitors.mod
+Symbol Output: KiCAD/SparkFun-Capacitors.lib
+Lib Name: SparkFun-Capacitors
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:18:58
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Connectors.lbr
+Module Output: KiCAD/SparkFun-Connectors.mod
+Symbol Output: KiCAD/SparkFun-Connectors.lib
+Lib Name: SparkFun-Connectors
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:20:47
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-DigitalIC.lbr
+Module Output: KiCAD/SparkFun-DigitalIC.mod
+Symbol Output: KiCAD/SparkFun-DigitalIC.lib
+Lib Name: SparkFun-DigitalIC
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:21:31
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-DiscreteSemi.lbr
+Module Output: KiCAD/SparkFun-DiscreteSemi.mod
+Symbol Output: KiCAD/SparkFun-DiscreteSemi.lib
+Lib Name: SparkFun-DiscreteSemi
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:21:50
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Displays.lbr
+Module Output: KiCAD/SparkFun-Displays.mod
+Symbol Output: KiCAD/SparkFun-Displays.lib
+Lib Name: SparkFun-Displays
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:21:57
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Electromechanical.lbr
+Module Output: KiCAD/SparkFun-Electromechanical.mod
+Symbol Output: KiCAD/SparkFun-Electromechanical.lib
+Lib Name: SparkFun-Electromechanical
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:22:39
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-FreqCtrl.lbr
+Module Output: KiCAD/SparkFun-FreqCtrl.mod
+Symbol Output: KiCAD/SparkFun-FreqCtrl.lib
+Lib Name: SparkFun-FreqCtrl
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:22:46
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-LED.lbr
+Module Output: KiCAD/SparkFun-LED.mod
+Symbol Output: KiCAD/SparkFun-LED.lib
+Lib Name: SparkFun-LED
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:22:58
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Passives.lbr
+Module Output: KiCAD/SparkFun-Passives.mod
+Symbol Output: KiCAD/SparkFun-Passives.lib
+Lib Name: SparkFun-Passives
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:23:26
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-PowerIC.lbr
+Module Output: KiCAD/SparkFun-PowerIC.mod
+Symbol Output: KiCAD/SparkFun-PowerIC.lib
+Lib Name: SparkFun-PowerIC
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:23:50
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Resistors.lbr
+Module Output: KiCAD/SparkFun-Resistors.mod
+Symbol Output: KiCAD/SparkFun-Resistors.lib
+Lib Name: SparkFun-Resistors
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:24:11
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Retired.lbr
+Module Output: KiCAD/SparkFun-Retired.mod
+Symbol Output: KiCAD/SparkFun-Retired.lib
+Lib Name: SparkFun-Retired
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:24:33
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-RF.lbr
+Module Output: KiCAD/SparkFun-RF.mod
+Symbol Output: KiCAD/SparkFun-RF.lib
+Lib Name: SparkFun-RF
+Conversion Successfull
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:25:02
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/SparkFun-Sensors.lbr
+Module Output: KiCAD/SparkFun-Sensors.mod
+Symbol Output: KiCAD/SparkFun-Sensors.lib
+Lib Name: SparkFun-Sensors
+Conversion Successfull
+*******************************************
+
+
