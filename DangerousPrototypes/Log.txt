@@ -1,0 +1,33 @@
+###############################################################################
+#Session: 2015-01-11 22:45:39
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/dp_devices.v6.lbr
+Module Output: KiCAD/dp_devices.v6.mod
+Symbol Output: KiCAD/dp_devices.v6.lib
+Lib Name: dp_devices
+Conversion Failed
+
+Traceback (most recent call last):
+  File "../../Eagle2Kicad/eagle2kicad", line 70, in convertLib
+    open(modFileName, 'w').close()
+FileNotFoundError: [Errno 2] No such file or directory: 'KiCAD/dp_devices.v6.mod'
+*******************************************
+
+
+###############################################################################
+#Session: 2015-01-11 22:46:24
+###############################################################################
+
+
+*******************************************
+Converting Lib: Eagle/dp_devices.v6.lbr
+Module Output: KiCAD/dp_devices.v6.mod
+Symbol Output: KiCAD/dp_devices.v6.lib
+Lib Name: dp_devices
+Conversion Successfull
+*******************************************
+
+
